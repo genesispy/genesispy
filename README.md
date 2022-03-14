@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @genesispy
-- 👀 I’m interested in tecnologia
+- 👀 I’m interested in technology
 - 🌱 I’m currently learning HTML e CSS
-- 💞️ I’m looking to collaborate on uma empresa de tecnologia
-- 📫 How to reach me genesis.muniz@sou.unifeob.edu.br
+- 💞️ I’m looking to collaborate on a technology company
+- 📫 How to reach me: genesis.muniz@sou.unifeob.edu.br
